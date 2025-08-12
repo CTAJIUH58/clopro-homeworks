@@ -133,7 +133,7 @@ variable "public_vm_disk_size" {
 
 variable "public_vm_image_id" {
   type        = string
-  default     = "fd893ak78u3rh37q3ekn"
+  #default     = "fd893ak78u3rh37q3ekn"
 }
 
 variable "scheduling_policy" {
