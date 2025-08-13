@@ -9,3 +9,9 @@
 15.2/.terraform.lock.hcl
 15.2/terraform.tfstate
 15.2/terraform.tfstate.backup
+
+15.3/cloud-conf.yaml
+15.3/.terraform/**
+15.3/.terraform.lock.hcl
+15.3/terraform.tfstate
+15.3/terraform.tfstate.backup
